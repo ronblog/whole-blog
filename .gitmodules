@@ -1,0 +1,6 @@
+[submodule "FlutterBlog"]
+	path = FlutterBlog
+	url = https://github.com/ronblog/FlutterBlog.git
+[submodule "Cppblog"]
+	path = Cppblog
+	url = https://github.com/ronblog/Cppblog.git
