@@ -4,3 +4,6 @@
 [submodule "Cppblog"]
 	path = Cppblog
 	url = https://github.com/ronblog/Cppblog.git
+[submodule "SystemBlog"]
+	path = SystemBlog
+	url = https://github.com/ronblog/SystemBlog.git
